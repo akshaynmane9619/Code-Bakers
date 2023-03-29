@@ -1,27 +1,26 @@
 # BudgetBuyers
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+## Problem Statment
 
-## Development server
+Since the covid online market has taken a boom. That boom has created a never-ending need of buying products from online. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Due to this scenario there are many site online like Amazon , Flipkart ,  Croma etc which are offering products at best price. Hence this leads to a lot of competion which results into a price of a product changing every day.
 
-## Code scaffolding
+However said that this all leads to a lot of confusion and people really waste a lot of time for searching the best price for the laptop or phone that they are willing to buy.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+So, to solve this problem once and for all we came up with Budget Buyers.!
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Architecture Diagram
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+![image](https://user-images.githubusercontent.com/104754529/228437269-52c7c880-15db-48ef-83d0-45a901a982c5.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Technology Stack
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://user-images.githubusercontent.com/104754529/228437479-f9a16156-245d-4c3c-bd09-3079180e28a3.png)
+
+
+
