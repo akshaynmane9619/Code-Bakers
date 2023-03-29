@@ -22,5 +22,14 @@ So, to solve this problem once and for all we came up with Budget Buyers.!
 
 ![image](https://user-images.githubusercontent.com/104754529/228437479-f9a16156-245d-4c3c-bd09-3079180e28a3.png)
 
+## Solution and Approach
+
+To solve this problem, we are planning to create a NextGen website that will contain multiple products along with the prices on different site.
+
+For example, if you won’t to buy a MacBook 14 then you can simply go through budget buyers and see all the prices from Amazon, Flipkart, Croma store or even from Apple site as well.
+
+So, there is no more searching for the best price for a product. Right now, we have included only laptops, but we can start adding multiple varieties of products!
+
+
 
 
