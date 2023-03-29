@@ -30,6 +30,10 @@ For example, if you won’t to buy a MacBook 14 then you can simply go through b
 
 So, there is no more searching for the best price for a product. Right now, we have included only laptops, but we can start adding multiple varieties of products!
 
+## User Interface
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/104754529/228459015-9e13876b-0924-4c72-ab8c-79ae22ef2c3b.png)
+
 
 
 
